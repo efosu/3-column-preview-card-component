@@ -63,7 +63,7 @@ main {
     background-color: var(--luxury-bckg);
 }
 
-h2{
+h1{
     color: var(--heading-clr);
     font-family: 'Big Shoulders Display' ;
     text-transform: uppercase;
